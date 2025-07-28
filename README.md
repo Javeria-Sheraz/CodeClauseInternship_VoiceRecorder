@@ -3,7 +3,7 @@
 
 # 🎙️ Python Voice Recorder (`soundRecorder.py`)
 
-A clean, beginner‑friendly GUI voice recorder built in Python. Perfect for learning OOP, GUI creation with Tkinter, and handling audio with `sounddevice`.
+A clean, beginner‑friendly GUI voice recorder built in Python. Features GUI creation with Tkinter, basic OOP, and handling audio with `sounddevice`.
 
 ## 🚀 Features
 
@@ -13,7 +13,6 @@ A clean, beginner‑friendly GUI voice recorder built in Python. Perfect for lea
 * Minimal and modern Tkinter GUI
 * Encapsulated logic using Python classes
 
----
 
 ---
 
@@ -49,7 +48,7 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 
-### 3. Install Dependencies
+### 3. Install Dependencies (Or install sounddevice and numpy libraries separately)
 
 ```bash
 pip install -r requirements.txt
@@ -94,7 +93,7 @@ Make sure your microphone is connected and working fine.
 
 ---
 
-## 📝 Credits & Author
+## 📝 Credits
 
 Created by **Javeria Sheraz**
 
