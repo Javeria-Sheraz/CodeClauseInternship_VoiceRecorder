@@ -34,8 +34,8 @@ Tkinter, `wave`, and `datetime` come built‑in with standard Python. No install
 ### 1. Download or Clone
 
 ```bash
-git clone https://github.com/Javeria-Sheraz/CodeClauseInternship_VoiceRecorder.git
-cd CodeClauseInternship_VoiceRecorder
+git clone https://github.com/Javeria-Sheraz/VoiceRecorder.git
+cd VoiceRecorder
 ```
 
 ### 2. (Optional) Create a Virtual Environment
