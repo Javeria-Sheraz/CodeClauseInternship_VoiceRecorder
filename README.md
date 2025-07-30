@@ -1,4 +1,4 @@
-# CodeClauseInternship VoiceRecorder
+# VoiceRecorder
 
 
 # 🎙️ Python Voice Recorder (`soundRecorder.py`)
